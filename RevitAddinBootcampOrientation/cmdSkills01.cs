@@ -15,7 +15,7 @@
 
             TaskDialog.Show("Test", "This is another dialog to test");
             TaskDialog.Show("Test", "I added this code using Github!!!");
-
+            TaskDialog.Show("Test", "I added this change in Visual Studio");
             // Your Module 01 Skills code goes here
             // Delete the TaskDialog below and add your code
             //TaskDialog.Show("Module 01 Skills", "Got Here!");
